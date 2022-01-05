@@ -1,0 +1,21 @@
+.nodes {
+  border: 0px;
+  border-radius: 3px;
+  padding: 5px;
+  background-color:inherit;
+  color:white;
+  font-size: 16px;
+}
+.nodes:hover {
+  background-color:#0f5b6b;
+}
+body{
+  background-color: #1d7e91;
+}
+h1{
+  font-size:50px;
+  text-align: center;
+  font-family: courier;
+  color: white;
+
+}
